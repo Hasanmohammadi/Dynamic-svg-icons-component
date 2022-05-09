@@ -36,16 +36,3 @@ const App = () => (
 
 render(<App />, document.getElementById("root"));
 ```
-
-
-## Installation
-
-Install this project with npm or yarn
-
-```bash
-  npm install 
-```
-```bash
-yarn
-```
-    
