@@ -43,6 +43,9 @@ render(<App />, document.getElementById("root"));
 Install this project with npm or yarn
 
 ```bash
-  npm install or yarn
+  npm install 
+```
+```bash
+yarn
 ```
     
