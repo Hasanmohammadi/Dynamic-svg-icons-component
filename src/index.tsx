@@ -1,10 +1,9 @@
 import { render } from "react-dom";
-import Icon from "./icon";
+import Icon from "./Icon";
 
 const App = () => (
   <div>
-    <Icon name="arrowUp" />
-    <Icon name="arrowDown" />
+    <Icon name="arrowDown" size={72} color="red" />
   </div>
 );
 
