@@ -3,7 +3,7 @@ import Icon from "./Icon";
 
 const App = () => (
   <div>
-    <Icon name="arrowDown" size={72} color="red" />
+    <Icon name="arrowDown" size={72} color="#220066" />
   </div>
 );
 
